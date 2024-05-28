@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Welcome to my GitHub Profile!
+
+I am currently in a Developer Bootcamp and will soon be a new Front-end Developer.
+
+I love learning new technologies and soon much more.
+
 <!--
 **TORMIC24/TORMIC24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
