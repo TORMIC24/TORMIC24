@@ -1,22 +1,7 @@
-## Hi there 👋
+Hi there!
 
-Welcome to my GitHub Profile!
+I'm a passionate developer currently completing a Bootcamp in Front-End Development. I'm focused on creating innovative solutions with technologies like HTML5, CSS3, JS, Vue.js. 
 
-I am currently in a Developer Bootcamp and will soon be a new Front-end Developer.
+Check out my projects and feel free to reach out if you'd like to collaborate or just say hi.
 
-I love learning new technologies and soon much more.
-
-<!--
-**TORMIC24/TORMIC24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Happy coding!
