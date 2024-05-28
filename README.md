@@ -5,8 +5,7 @@ Check out my projects and feel free to contact me.
 
 Happy coding!
 
-
-<hr />
+---
 
 
 
