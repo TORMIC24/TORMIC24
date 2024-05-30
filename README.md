@@ -9,3 +9,8 @@ Happy coding!
 
 
 
+
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=TORMIC24&show_icons=true&theme=transparent)
