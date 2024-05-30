@@ -1,5 +1,4 @@
 # Welcome to my profile! <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=TORMIC24&label=Profile%20views&color=0e75b6&style=flat" alt="TORMIC24" /> </p>
 
 I'm currently completing a Bootcamp in Front-End Development.
 Check out my projects and feel free to contact me.
