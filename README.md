@@ -1,9 +1,7 @@
 # Welcome to My Profile <p align="left"> 
 
-I'm currently completing a Bootcamp in Front-End Development.
+I am currently taking part in a bootcamp to improve my web development skills.
 Check out my projects and feel free to contact me.
-
-Happy coding!
 
 ---
 
